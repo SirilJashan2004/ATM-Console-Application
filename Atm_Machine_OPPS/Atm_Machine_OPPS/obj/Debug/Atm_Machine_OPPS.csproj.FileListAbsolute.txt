@@ -1,0 +1,6 @@
+D:\Root IT Task\Atm_Machine_OPPS\Atm_Machine_OPPS\bin\Debug\Atm_Machine_OPPS.exe.config
+D:\Root IT Task\Atm_Machine_OPPS\Atm_Machine_OPPS\bin\Debug\Atm_Machine_OPPS.exe
+D:\Root IT Task\Atm_Machine_OPPS\Atm_Machine_OPPS\bin\Debug\Atm_Machine_OPPS.pdb
+D:\Root IT Task\Atm_Machine_OPPS\Atm_Machine_OPPS\obj\Debug\Atm_Machine_OPPS.csprojResolveAssemblyReference.cache
+D:\Root IT Task\Atm_Machine_OPPS\Atm_Machine_OPPS\obj\Debug\Atm_Machine_OPPS.exe
+D:\Root IT Task\Atm_Machine_OPPS\Atm_Machine_OPPS\obj\Debug\Atm_Machine_OPPS.pdb
